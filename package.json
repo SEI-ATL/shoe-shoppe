@@ -30,6 +30,7 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
     "morgan": "^1.10.0",
+    "nba-api-client": "^1.1.1",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "pg": "^8.5.1",
@@ -39,5 +40,6 @@
     "chai": "^4.2.0",
     "mocha": "^8.2.1",
     "supertest": "^6.0.1"
-  }
+  },
+  "keywords": []
 }
